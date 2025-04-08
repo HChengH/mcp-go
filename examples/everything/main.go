@@ -7,8 +7,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/mark3labs/mcp-go/mcp"
-	"github.com/mark3labs/mcp-go/server"
+	"github.com/HChengH/mcp-go/mcp"
+	"github.com/HChengH/mcp-go/server"
 )
 
 type ToolName string
